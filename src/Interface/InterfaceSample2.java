@@ -6,7 +6,7 @@ public class InterfaceSample2 implements InterfaceSample1,InterfaceSample3
 {
 	  public void name()//method defining interface
 	  {
-		  System.out.println("My name is amitha");
+		  System.out.println("My name is amitha das");
 	  }
 	  public void roll()
 	  {

@@ -2,7 +2,7 @@ package Aggregation4;
 
 public class Name 
 {
- String name1="Amitha";
+ String name1="Amitha das";
  int age=24;
  public void details()
  {

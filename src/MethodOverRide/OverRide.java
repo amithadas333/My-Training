@@ -4,7 +4,7 @@ public class OverRide
 {
 	public void display()
 	{
-	System.out.println("Hello Java");
+	System.out.println("Hello Java world");
 
 	}
 }

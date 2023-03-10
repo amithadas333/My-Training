@@ -6,7 +6,7 @@ public class Builder
 	public static void main(String[] args)
 	{
 		StringBuilder a=new StringBuilder("Amitha");
-		a.append(" Das");//append
+		a.append("ami");//append
 		System.out.println(a);
 		a.insert(1,"ami");//insert
 		System.out.println(a);

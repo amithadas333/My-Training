@@ -6,7 +6,7 @@ public class Buffer
 	public static void main(String[] args) 
 	{
 		StringBuffer a=new StringBuffer("Amitha");
-		a.append("Das");//append
+		a.append("ami");//append
 		System.out.println(a);
 
 		a.insert(1,"ami");//insert

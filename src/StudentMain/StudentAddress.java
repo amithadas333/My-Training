@@ -4,7 +4,7 @@ import Student.StudentDetails;
 
 public class StudentAddress 
 {
-	String address="Happy Home";
+	String address="HappyHome";
 	public void displayAddress()
 	{
 		System.out.println("My address is: " +address);

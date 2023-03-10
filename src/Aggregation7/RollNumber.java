@@ -4,9 +4,9 @@ import Aggregation6.StudentDetails;
 
 public class RollNumber 
 {
-   public void roll(int a)
+   public void roll(int b)
    {
-	   System.out.println("Student roll number is: " +a);
+	   System.out.println("Student roll number is: " +b);
    }
 	public static void main(String[] args)
 	{

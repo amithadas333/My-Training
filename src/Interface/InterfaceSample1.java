@@ -4,7 +4,7 @@ public interface InterfaceSample1
 {
   public static void name()//abstract
   {
-   System.out.println("hi");
+   System.out.println("hi java");
 	  
  }
  

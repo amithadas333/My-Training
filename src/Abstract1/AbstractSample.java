@@ -2,7 +2,7 @@ package Abstract1;
 
 abstract public class AbstractSample 
 {
-	int a=10,b=20;//static variable
+	int a=10,b=40;//static variable
 	abstract public void add(int a,int b);//constructor
 	
 	public static void sub(int x,int y)

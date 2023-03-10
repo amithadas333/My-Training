@@ -6,7 +6,7 @@ public class AdditionResult extends Addition
 	{
 	  if(super.add(10,20)%10==0)
 		{
-		System.out.println("Divisible by 10");
+		System.out.println("Divisibles by 10");
 		}
 	  else
 	  {

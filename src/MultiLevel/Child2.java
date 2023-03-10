@@ -4,7 +4,7 @@ public class Child2 extends Child1
 {
 	public void division(int x,int y)
 	{
-		System.out.println("Division of two numbers is: " +(x/y));
+		System.out.println("Division of two numbers : " +(x/y));
 	}
 	public static void main(String[] args) 
 	{

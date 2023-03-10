@@ -5,7 +5,7 @@ public class Licence1
 	
 
 
-		static int age=18;//static variable
+		static int age=28;//static variable
 		public static void licence()//static method
 		{
 			if(age<=18)

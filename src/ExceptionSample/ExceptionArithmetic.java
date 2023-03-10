@@ -2,7 +2,7 @@ package ExceptionSample;
 
 public class ExceptionArithmetic 
 { 
-	int a=10;
+	int a=20;
     public void display()
     {
     	try 

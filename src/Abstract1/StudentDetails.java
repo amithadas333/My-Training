@@ -6,8 +6,8 @@ abstract public class StudentDetails
   
 	  
   
-  public void roll(int a)
+  public void roll(int b)
   {
-	  System.out.println("Roll number is:" +a);
+	  System.out.println("Roll number is:" +b);
   }
 }

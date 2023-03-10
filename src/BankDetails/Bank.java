@@ -2,7 +2,7 @@ package BankDetails;
 
 public class Bank 
 {
-	static int depositeamount=5000;
+	static int depositeamount=2000;
 	static int withdrawamount=1000;
 	static int mainbalance=8000;
 	public static void depositeAmount()

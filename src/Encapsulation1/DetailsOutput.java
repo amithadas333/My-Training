@@ -7,7 +7,7 @@ public class DetailsOutput
 	{
 		Details obj=new Details();
 		obj.setName("Amitha");
-		obj.setage(24);
+		obj.setage(23);
 		obj.getName();
 		obj.getAge();
 

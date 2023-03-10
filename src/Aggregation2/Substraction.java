@@ -4,7 +4,7 @@ import Aggregation1.Addition;
 
 public class Substraction
 {
-   int x=10,y=5;
+   int x=10,y=15;
    public void sub()
    {
 	   System.out.println("Substraction of two numbers is: " +(x-y));

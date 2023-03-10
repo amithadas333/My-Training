@@ -15,7 +15,7 @@ public class Details
  
  public void getName()
  {
-	 System.out.println("My name is: " +name);
+	 System.out.println("My name : " +name);
  }
  public void getAge()
  {
